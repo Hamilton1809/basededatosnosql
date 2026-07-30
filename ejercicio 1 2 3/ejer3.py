@@ -4,7 +4,7 @@ edad = int(input("Ingrese la edad del cliente: "))
 
 if edad < 5:
     precio = 0
-elif edad <= 18:
+elif edad >= 5 and edad <= 18:
     precio = 5000
 else:
     precio = 10000

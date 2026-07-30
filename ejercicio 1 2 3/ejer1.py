@@ -1,4 +1,4 @@
-# Programa para calcular el impuesto según el salario
+# Programa para calcular el impuesto según el salario mensual
 
 salario = float(input("Ingrese su salario mensual: "))
 
